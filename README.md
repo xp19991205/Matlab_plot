@@ -1,0 +1,2 @@
+# Matlab_plot
+print函数可以对matlab绘制图窗进行保存
